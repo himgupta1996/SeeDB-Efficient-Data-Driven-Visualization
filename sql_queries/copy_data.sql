@@ -1,0 +1,1 @@
+\COPY Adult FROM adult_test.csv with (format csv, header true, NULL '');
